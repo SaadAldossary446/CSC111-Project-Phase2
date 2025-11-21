@@ -1,7 +1,7 @@
-package test;
-
-// Names + IDs + GitHub link go here as required by project
-
+//Saad Aldossary 446101262
+// Ahmed Alahmeri 446109390
+// Saleh Aldhalhaan 445107183
+// https://github.com/SaadAldossary446/CSC111-Project-Phase2.git
 public class Member {
 
     // Instance attributes (session + persistent borrowedCount)
@@ -112,3 +112,4 @@ public class Member {
         this.borrowedCount = borrowedCount;
     }
 }
+
