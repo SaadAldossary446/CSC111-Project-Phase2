@@ -1,5 +1,7 @@
-package test;
-
+//Saad Aldossary 446101262
+// Ahmed Alahmeri 446109390
+// Saleh Aldhalhaan 445107183
+// https://github.com/SaadAldossary446/CSC111-Project-Phase2.git
 import java.util.Scanner;
 
 public class LibrarySimulator {
@@ -146,3 +148,4 @@ public class LibrarySimulator {
         scanner.close();
     }
 }
+
